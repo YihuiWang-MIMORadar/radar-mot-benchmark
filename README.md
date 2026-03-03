@@ -1,2 +1,9 @@
-# radar-mot-benchmark
-This is a novice of radar algorithms. I will build a benchmark of radar processing, which includes a data generator and a baseline of objective tracker
+# Radar MOT Benchmark (radar：雷达, MOT：多目标跟踪, benchmark：评测基准)
+
+Goal: Build a reproducible benchmark for multi-object tracking under sparse/noisy measurements.
+
+## Quickstart
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt

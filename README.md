@@ -1,4 +1,4 @@
-# Radar MOT Benchmark (radar：雷达, MOT：多目标跟踪, benchmark：评测基准)
+# Radar MOT Benchmark
 
 Goal: Build a reproducible benchmark for multi-object tracking under sparse/noisy measurements.
 
